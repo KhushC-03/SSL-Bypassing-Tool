@@ -1,4 +1,5 @@
 This is a tool built to help you discover hidden mobile APIS and take advantage of them.
+Extract the platform_tools.rar folder and put all the files into the same folder.
 This script comes with 2 ssl bypassing scrips located in the platform tools folder (they were not made by me).
 Make sure you write in the config.json file the name of the bypassing script otherwise it won't work, its defaulted to the fridascript1.js, but if you add your own you can chnage the name you just have to specifiy it in the config.json file.
 Run the ssl_bypassing_tool.exe file to get all the the tools
