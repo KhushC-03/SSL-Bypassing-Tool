@@ -1,0 +1,10 @@
+This is a tool built to help you discover hidden mobile APIS and take advantage of them.
+This script comes with 2 ssl bypassing scrips located in the platform tools folder (they were not made by me).
+Make sure you write in the config.json file the name of the bypassing script otherwise it won't work, its defaulted to the fridascript1.js, but if you add your own you can chnage the name you just have to specifiy it in the config.json file.
+Run the ssl_bypassing_tool.exe file to get all the the tools
+You also need to download burpsuite and get an ssl certificate as the one provided in the platform tools folder may not work, when you download your own one make sure you name it 'cacert.der' otherwise the tool wil not run.
+Finally make sure you have an android emulator, I personally use genymotion.
+
+Thank you for reading!
+
+Any help message me on Discord Khushthedev#9679
